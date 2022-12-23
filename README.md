@@ -1,4 +1,4 @@
-# Project Name
+# Gesture Recognition
 >
 The gestures are continuously monitored by the webcam mounted on the TV. Each gesture corresponds to a specific command:
 
